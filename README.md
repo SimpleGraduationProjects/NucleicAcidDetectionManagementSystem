@@ -1,0 +1,2 @@
+# NucleicAcidDetectionManagementSystem
+核酸检测管理系统-毕业设计
